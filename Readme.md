@@ -1,7 +1,7 @@
-## 🎥 Video Streaming Platform (Backend)
+# 🎥 Video Streaming Platform (Backend)
 A scalable backend for handling video uploads, processing, and streaming using Node.js, Express, and FFmpeg.
 
-# 🚀 Features
+## 🚀 Features
 Video Uploading: Supports receiving video files (e.g., MP4) via multipart form-data.
 
 Transcoding & Processing: Uses cloudinary to transcode uploaded videos and prepare them for adaptive streaming.
@@ -16,7 +16,7 @@ Metadata Management: Stores video metadata (title, description, duration, paths)
 
 CORS Support: Configured to work seamlessly with a frontend application.
 
-# 📦 Tech Stack
+## 📦 Tech Stack
 Node.js with Express – RESTful API server.
 
 bcrypt – Handles passwod hashing.
